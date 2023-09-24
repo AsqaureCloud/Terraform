@@ -1,3 +1,5 @@
+## Basic Notes
+
 **provider.tf** – containing the terraform block, , provider configurations.
 
 **main.tf** – containing the resource blocks which define the resources to be created in the target cloud platform.
