@@ -15,7 +15,7 @@ google = {
 provider "google" {
 	
   credentials = file("tf.json")
-  project = "git-with-terraform"
+  project = "project1"
 
   }
 
